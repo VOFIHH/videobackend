@@ -1,0 +1,17 @@
+{
+  "name": "backendproject",
+  "version": "1.0.0",
+  "description": "a practive \b\b\bvh�klh�kla\b\b\b\b\b\b\b\b\b\b\bice project",
+  "keywords": [
+    "demo",
+    "practive\b\bce",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "nuj n\b\b\b\b\banuj nautiyal",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
